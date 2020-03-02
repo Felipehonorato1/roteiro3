@@ -1,0 +1,4 @@
+Polimorfismo consiste na criação de um objeto do tipo de uma classe pai, mas instanciada como uma das classes filhas
+Ex: 
+Considerando Animal como superclasse concreta, Cavalo como classe filha, instaciamos o objeto C1 como sendo um animal do tipo cavalo. 
+Animal *c1 = new Cavalo()

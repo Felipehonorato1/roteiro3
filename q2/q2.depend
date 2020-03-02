@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1582760780 source:c:\users\felipe honorato\desktop\nova pasta\q2\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1582759129 source:c:\users\felipe honorato\desktop\nova pasta\q2\src\iconta.cpp
+	"IConta.h"
+
+1582758261 c:\users\felipe honorato\desktop\nova pasta\q2\include\iconta.h
+
+1582761164 source:c:\users\felipe honorato\desktop\nova pasta\q2\src\conta.cpp
+	"Conta.h"
+
+1582759512 c:\users\felipe honorato\desktop\nova pasta\q2\include\conta.h
+	"IConta.h"
+	<iostream>
+
+1582761098 c:\users\felipe honorato\desktop\nova pasta\q2\include\contaespecial.h
+	"Conta.h"
+
+1582761176 source:c:\users\felipe honorato\desktop\nova pasta\q2\src\contaespecial.cpp
+	"ContaEspecial.h"
+	"Conta.h"
+

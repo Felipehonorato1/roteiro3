@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1582973171 source:c:\users\felipe honorato\desktop\nova pasta\q3\main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1582973189 c:\users\felipe honorato\desktop\nova pasta\q3\include\conta.h
+	<iostream>
+
+1582972659 c:\users\felipe honorato\desktop\nova pasta\q3\include\contacorrente.h
+	"Conta.h"
+
+1582973087 source:c:\users\felipe honorato\desktop\nova pasta\q3\src\conta.cpp
+	"Conta.h"
+
+1582972678 source:c:\users\felipe honorato\desktop\nova pasta\q3\src\contacorrente.cpp
+	"ContaCorrente.h"
+	"Conta.h"
+
+1582958220 c:\users\felipe honorato\desktop\nova pasta\q3\include\contaespecial.h
+	"ContaCorrente.h"
+
+1582958390 source:c:\users\felipe honorato\desktop\nova pasta\q3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1582972303 source:c:\users\felipe honorato\desktop\nova pasta\q3\src\poupanca.cpp
+	"Poupanca.h"
+
+1582972245 c:\users\felipe honorato\desktop\nova pasta\q3\include\poupanca.h
+	"Conta.h"
+
